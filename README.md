@@ -1,4 +1,4 @@
-# My Stay 
+# My Stay :hotel:
 
 > Room Reservation App build for mock testing. 
 
